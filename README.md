@@ -34,15 +34,6 @@ Across multiple tasks and modalities (IMU sensing, vision, EMG, audio, and multi
 
 ---
 
-## 📄 Paper
-
-**Learning System Expansion with Efficient Heterogeneity-aware Knowledge Transfer**  
-*AAAI 2026*
-
-If you find this work useful, please consider citing our paper.
-
----
-
 ## 🧩 Applications
 
 HaT is applicable to a wide range of real-world scenarios, including:
@@ -56,4 +47,16 @@ HaT is applicable to a wide range of real-world scenarios, including:
 
 ## 📦 Code Release
 The code will be released by **January 30** due to conflicting commitments.
+
+## 📖 Citation
+
+If you find this work useful, please consider citing:
+
+```bibtex
+@article{dai2024expand,
+  title={Learning System Expansion with Efficient Heterogeneity-aware Knowledge Transfer},
+  author={Dai, Gaole and Xu, Huatao and Yang, Yifan and Tan, Rui and Li, Mo},
+  journal={arXiv preprint arXiv:2412.04060},
+  year={2024}
+}
 
